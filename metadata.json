@@ -1,0 +1,6 @@
+{
+  "name": "Tarang",
+  "description": "Offline-first music player and playlist studio. Import audio files, build custom playlists, and cache tracks locally for uninterrupted offline playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
